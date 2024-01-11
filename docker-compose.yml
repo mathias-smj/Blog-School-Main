@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  db:
+    image: "mysql:8.0"
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - type: volume
+        source: db_blog_perfume
+        target: /var/lib/mysql
+    ports:
+      - "3001:3306"
+
+  phpmyadmin:
+    image: phpmyadmin
+    container_name: phpmyadmin_interface
+    restart: always
+    depends_on:
+      - db
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: db
+
+volumes:
+  db_blog_perfume:
+    external: true

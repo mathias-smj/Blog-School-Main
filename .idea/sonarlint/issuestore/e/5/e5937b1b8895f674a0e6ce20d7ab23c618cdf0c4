@@ -1,0 +1,8 @@
+
+s	php:S1192"RDefine a constant instead of duplicating this literal "class="sb-active"" 5 times.(É›ÙÔûÿÿÿÿ8¬ˆÐÎÏ1
+B	php:S2003)"&Replace "include" with "include_once".(õñ‹†8¬ˆÐÎÏ1
+G	php:S2003/"&Replace "include" with "include_once".(õ°ž±ûÿÿÿÿ8¬ˆÐÎÏ1
+L	php:S6600)"0Remove the parentheses from this "include" call.(õñ‹†8¬ˆÐÎÏ1
+Q	php:S6600/"0Remove the parentheses from this "include" call.(õ°ž±ûÿÿÿÿ8¬ˆÐÎÏ1
+h	php:S4833)"LReplace "include" with namespace import mechanism through the "use" keyword.(õñ‹†8¬ˆÐÎÏ1
+m	php:S4833/"LReplace "include" with namespace import mechanism through the "use" keyword.(õ°ž±ûÿÿÿÿ8¬ˆÐÎÏ1

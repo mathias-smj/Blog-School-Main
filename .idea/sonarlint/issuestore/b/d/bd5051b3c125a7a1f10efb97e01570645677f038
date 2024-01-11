@@ -1,0 +1,6 @@
+
+N	php:S1481"-Remove this unused "$isAdmin" local variable.(½¥±ûùÿÿÿÿ8€ÁÎÏ1
+O	php:S1481".Remove this unused "$isLogged" local variable.(¸šü´şÿÿÿÿ8€ÁÎÏ1
+I	php:S1481"-Remove this unused "$content" local variable.(û›Øö8€ÁÎÏ1
+r	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(äæúüøÿÿÿÿ8€ÁÎÏ1
+m	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(ÇûşÍ8€ÁÎÏ1

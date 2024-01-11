@@ -1,0 +1,4 @@
+192.168.65.1 - - [05/Jan/2024:07:48:17 +0000] "GET / HTTP/1.1" 499 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" "-" 273.122 273.126 . -
+192.168.65.1 - - [05/Jan/2024:07:50:24 +0000] "GET / HTTP/1.1" 499 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" "-" 30.944 30.942 . -
+192.168.65.1 - - [05/Jan/2024:07:54:56 +0000] "GET / HTTP/1.1" 504 160 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" "-" 300.074 300.079 . -
+192.168.65.1 - - [05/Jan/2024:07:59:56 +0000] "GET /favicon.ico HTTP/1.1" 504 160 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" "-" 300.070 300.074 . -

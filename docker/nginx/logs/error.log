@@ -1,0 +1,2 @@
+2024/01/05 07:54:56 [error] 36#36: *6 upstream timed out (110: Operation timed out) while reading response header from upstream, client: 192.168.65.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost"
+2024/01/05 07:59:56 [error] 36#36: *6 upstream timed out (110: Operation timed out) while reading response header from upstream, client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost", referrer: "http://localhost/"
